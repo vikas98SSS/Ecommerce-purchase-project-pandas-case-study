@@ -57,4 +57,3 @@
     - smith.com: 42 users
     - williams.com: 37 users
 
-This summary encapsulates the key findings and analyses performed in the Jupyter Notebook related to ecommerce purchases.
