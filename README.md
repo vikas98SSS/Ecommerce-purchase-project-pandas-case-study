@@ -1,4 +1,4 @@
-# vikas dhakad
+# Vikas Dhakad
 # Ecommerce-purchase-project-pandas-case-study
 
 
